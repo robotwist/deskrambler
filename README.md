@@ -64,3 +64,39 @@ deskrambler/
 
 
 
+🤖 Tech Stack
+JavaScript (Vanilla)
+
+Chrome Extension APIs
+
+Pure CSS
+
+Zero frameworks, zero bloat
+
+💡 Why This Exists
+Job hunting is already overwhelming.
+LinkedIn should help, not hurt.
+Deskrambler gives you a focused experience that keeps your attention where it belongs: on finding meaningful work.
+
+🧪 In Development / Roadmap
+ Toggle UI to show/hide elements on demand
+
+ Options page for custom filtering
+
+ Support for other job sites (indeed, Glassdoor)
+
+ Publish to Chrome Web Store
+
+🙋‍♀️ Made By
+Rob Twist — @robotwist
+Powered by coffee, code, and the pursuit of less noise online.
+
+📝 License
+MIT — because good ideas should be free to roam.
+
+
+
+
+
+
+
